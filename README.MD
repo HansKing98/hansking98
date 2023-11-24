@@ -14,4 +14,4 @@ For the dream and young, for the young and firm!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansking98&hide=less,html&layout=compact&locale=cn)](https://hansking98.github.io)
 
 
-![](https://komarev.com/ghpvc/?username=hansking98&color=ff69b4&label=PED-Since+2018-09-01)
+![](https://komarev.com/ghpvc/?username=hansking98&color=ff69b4&label=front end developer since 201809)
